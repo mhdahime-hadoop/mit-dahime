@@ -26,7 +26,7 @@ I am an AI Engineer who bridges the gap between deep technical implementation an
 - **The Innovation:** Features a context-aware Agentic Reasoning Layer that evaluates business metadata (meeting risk, transaction amounts, time of day) to output structured audit logs and deterministic security actions ($ALLOW$, $SOFT\_WARN$, $ESCALATE$, $HARD\_BLOCK$)[cite: 1].
 - *Note: Source code is proprietary/closed-source. This repository serves as an architectural blueprint, methodology showcase, and research whitepaper[cite: 1].*
 
-### 🤖 [Autonomous-Restaurant-Concierge](https://github.com/yourusername/Autonomous-Restaurant-Concierge)
+### 🤖 [Autonomous-Restaurant-Concierge](https://github.com/mhdahime-hadoop/Autonomous-Restaurant-Concierge/tree/main)
 *Production-Grade Multi-Agent AI Operations Assistant*[cite: 1]
 - **The Core Problem:** Automating complex, state-dependent restaurant operations, customer communication, and booking tickers[cite: 1].
 - **The Architecture:** Built entirely on an asynchronous **n8n platform** utilizing multi-agent routing engines to read user intent and dynamically update data stores[cite: 1].
